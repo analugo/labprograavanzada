@@ -1,5 +1,8 @@
 # labprograavanzada
-Lab
+
+1. [resultado de laboratorio](https://ibb.co/nmBfMk)
+2. [resultado de laboratorio](https://ibb.co/jj9NZ5)
+
 
 ## ¿Qué es GitHub?
   GitHub es una plataforma de desarrollo inspirada en la forma de trabajar. De código abierto a negocio, 
